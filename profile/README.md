@@ -7,6 +7,3 @@
 
 ### System Architecture
 ![System Architecture Diagram](https://github.com/team3dat3/mainframe/blob/main/assets/System-Architecture.png)
-
----
-![Terminator GIF](https://media.tenor.com/e5cgR0H0E2IAAAAC/terminator-arnold.gif)
